@@ -9,7 +9,7 @@ Date: 23 JUL 2017
 
 
 ## Application:
-Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not cryptographically secure. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application. It's a fast, long-period generator and discrete message cipher.
+Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not cryptographically secure. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application; a fast, long-period generator and discrete message cipher.
 
 
 ## Dependencies:

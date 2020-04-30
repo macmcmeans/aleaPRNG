@@ -91,10 +91,12 @@ Google Chrome on Win 10 (x64)
 <br>&nbsp;<br>
 
 ## Version notes:
-1.1 - 29 APR 2020
+* 1.1 - 29 APR 2020
+
 NEW: Refactor logic
 
 * 1.0 - 23 JUL 2017
+
 Initial release
 <br>&nbsp;<br>
 

@@ -94,6 +94,7 @@ Google Chrome on Win 10 (x64)
 * 1.1 - 29 APR 2020
 
 NEW: Refactor logic
+<br>&nbsp;<br>
 
 * 1.0 - 23 JUL 2017
 

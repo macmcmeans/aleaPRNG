@@ -2,9 +2,9 @@
 Alea is a pseudo-random number generator (PRNG) created by Johannes Baagøe, released in 2010. It implements his variation on Marsaglia's Multiply-with-carry theme, adapted to javascript's quaint notion of numbers: the carries are exactly the integer parts of Numbers with exactly 32 bits of fractional part.
 
 <br>&nbsp;<br>
-Version 1.0<br>
-Author: William P. "Mac" McMeans<br>
-Date: 23 JUL 2017
+Version 1.1<br>
+Author: W. "Mac" McMeans<br>
+Date: 29 APR 2020
 <br>&nbsp;<br>
 
 
@@ -87,16 +87,19 @@ https://web.archive.org/web/20111105142920/http://baagoe.com/en/RandomMusings/ja
 
 ## Tested:
 Google Chrome on Win 8.1 (x64)
+Google Chrome on Win 10 (x64)
 <br>&nbsp;<br>
 
 ## Version notes:
-* 1.0 - 23 JUL 2017
+1.1 - 29 APR 2020
+NEW: Refactor logic
 
+* 1.0 - 23 JUL 2017
 Initial release
 <br>&nbsp;<br>
 
 # License (BSD)
-Copyright (c) 2017, William P. "Mac" McMeans<br>
+Copyright (c) 2017-2020, W. "Mac" McMeans<br>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

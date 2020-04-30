@@ -10,10 +10,6 @@ Date: 29 APR 2020
 
 ## Application:
 Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not cryptographically secure. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application; a fast, long-period generator and discrete message cipher.
-
-
-## Dependencies:
-Baagøe's Mash() hash function.
 <br>&nbsp;<br>
 
 
@@ -92,7 +88,8 @@ Google Chrome on Win 10 (x64)
 
 ## Version notes:
 * 1.1 - 29 APR 2020
-<br>NEW: Refactor logic
+<br>NEW: Refactor general logic
+<br>Remove dependency on Mash hash function
 <br>&nbsp;<br>
 
 * 1.0 - 23 JUL 2017

@@ -86,7 +86,7 @@ https://web.archive.org/web/20111105142920/http://baagoe.com/en/RandomMusings/ja
 
 
 ## Tested:
-Google Chrome on Win 8.1 (x64)
+Google Chrome on Win 8.1 (x64)<br>
 Google Chrome on Win 10 (x64)
 <br>&nbsp;<br>
 

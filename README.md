@@ -14,7 +14,7 @@ Use this to quickly generate random numbers with good statistical properties. NO
 
 
 ## Period:
-~2^116
+~2<sup>116</sup>
 <br>&nbsp;<br>
 
 

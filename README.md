@@ -82,18 +82,17 @@ https://web.archive.org/web/20111105142920/http://baagoe.com/en/RandomMusings/ja
 
 
 ## Tested:
-Google Chrome on Win 8.1 (x64)<br>
 Google Chrome on Win 10 (x64)
 <br>&nbsp;<br>
 
 ## Version notes:
 * 1.1 - 29 APR 2020
-<br>NEW: Refactor general logic
-<br>Remove dependency on Mash hash function
+<br>``update`` Refactor general logic
+<br>``update`` Remove dependency on Mash hash function
 <br>&nbsp;<br>
 
 * 1.0 - 23 JUL 2017
-<br>Initial release
+<br>``release`` Initial release
 <br>&nbsp;<br>
 
 # License (BSD)

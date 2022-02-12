@@ -77,7 +77,7 @@ Use this to quickly generate random numbers with good statistical properties. NO
 ## REFS:
 https://github.com/nquinlan/better-random-numbers-for-javascript-mirror/blob/master/support/js/Alea.js
 
-https://web.archive.org/web/20111105142920/http://baagoe.com/en/RandomMusings/javascript/
+[http://baagoe.com/en/RandomMusings/javascript/](https://archive.ph/fFiRk)
 <br>&nbsp;<br>
 
 

@@ -7,6 +7,13 @@ Author: W. "Mac" McMeans<br>
 Date: 29 APR 2020
 <br>&nbsp;<br>
 
+<br>&nbsp;<br>
+
+<p align="center">
+  <b>“Avoid the use of any generator that can’t be clearly, efficiently and portably implemented in a high-level language.”<br>~ <i>S. Park, K. Miller & P. Stockmeyer</i></b>
+</p>
+  
+<br>&nbsp;<br>
 
 ## Application:
 Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not cryptographically secure. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application; a fast, long-period generator and discrete message cipher.

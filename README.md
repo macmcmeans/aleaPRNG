@@ -1,5 +1,5 @@
 # 🔢 aleaPRNG [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-Alea is a pseudo-random number generator (PRNG) created by Johannes Baagøe, released in 2010. It implements his variation on Marsaglia's Multiply-with-carry theme, adapted to javascript's quaint notion of numbers: the carries are exactly the integer parts of Numbers with exactly 32 bits of fractional part.
+Alea is a pseudo-random number generator (PRNG) created by Johannes Baagøe, released in 2010. It implements his variation on Marsaglia’s Multiply-with-carry theme, adapted to javascript’s quaint notion of numbers: the carries are exactly the integer parts of Numbers with exactly 32 bits of fractional part.
 
 <br>&nbsp;<br>
 Version 1.1<br>

@@ -16,7 +16,7 @@ Date: 29 APR 2020
 <br>&nbsp;<br>
 
 ## Application:
-Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not cryptographically secure. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application; a fast, long-period generator and discrete message cipher.
+Use this to quickly generate random numbers with good statistical properties. NOTE: This generator is not <a href="https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator">cryptographically secure</a>. If you need a secure generator then consider <a href="https://github.com/macmcmeans/isaacCSPRNG">ISAAC</a> for your application; a fast, long-period generator and discrete message cipher.
 <br>&nbsp;<br>
 
 
